@@ -1,0 +1,10 @@
+# Ignore node modules for root and client
+node_modules/
+client/node_modules/
+
+# Optional: environment files
+.env
+.env.local
+
+# build output
+dist/
